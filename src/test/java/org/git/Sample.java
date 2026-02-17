@@ -18,7 +18,5 @@ public class Sample {
 		System.out.println("method4");
 	}
 	
-	public void method5() {
-		System.out.println("method5");
-	}
+	
 }
